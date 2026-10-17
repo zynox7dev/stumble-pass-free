@@ -5,6 +5,7 @@
 ███████╗   ██║   ██║ ╚████║╚██████╔╝██╔╝ ██╗
 ╚══════╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 
+# made by the best developer ; )
 from pynput import mouse, keyboard
 from PIL import ImageGrab
 from threading import Event
